@@ -75,3 +75,4 @@ Hilt,Adopt,languages-and-frameworks,FALSE,A dependency injection library for And
 Koin,Assess,languages-and-frameworks,FALSE,A lightweight dependency injection framework for Kotlin, designed to be simple and pragmatic.,,
 React Native,Trial,languages-and-frameworks,TRUE,A framework for building cross-platform mobile apps using JavaScript and React.,,
 Security Champion,Adopt,Techniques,TRUE,A role within a team that advocates for security best practices and helps identify potential vulnerabilities.,,
+RealmDB,Hold,Tools,TRUE,Aka Atlas Device SDK. A mobile database that provides a fast, lightweight, and local data storage solution for iOS and Android applications.,,
