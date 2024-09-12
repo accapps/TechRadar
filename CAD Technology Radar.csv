@@ -8,7 +8,6 @@ Java,Hold,languages-and-frameworks,FALSE,"A versatile, object-oriented programmi
 Objective-C,Hold,languages-and-frameworks,FALSE,"A programming language primarily used for iOS and macOS apps before Swift.",,
 Flutter,Trial,languages-and-frameworks,FALSE,"An open-source UI framework for building cross-platform apps using Dart.",,
 Firebase Notifications,Adopt,languages-and-frameworks,FALSE,"A service for sending push notifications to iOS, Android, and web applications.",,
-Mockito,Hold,languages-and-frameworks,FALSE,"A popular Java mocking framework for unit testing.",,
 UIKit,Hold,languages-and-frameworks,FALSE,"A framework for building user interfaces in iOS and macOS apps.",,
 Jetpack Navigation,Adopt,languages-and-frameworks,FALSE,"A component for managing app navigation in Android using a single activity.",,
 Gradle Kotlin DSL,Trial,languages-and-frameworks,FALSE,"A way to write Gradle build scripts using Kotlin instead of Groovy.",,
