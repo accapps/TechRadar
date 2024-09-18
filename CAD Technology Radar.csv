@@ -75,3 +75,4 @@ Koin,Assess,languages-and-frameworks,FALSE,"A lightweight dependency injection f
 React Native,Trial,languages-and-frameworks,TRUE,"A framework for building cross-platform mobile apps using JavaScript and React.",,
 Security Champion,Adopt,Techniques,TRUE,"A role within a team that advocates for security best practices and helps identify potential vulnerabilities.",,
 RealmDB,Hold,Tools,TRUE,"Aka Atlas Device SDK. A mobile database that provides a fast, lightweight, and local data storage solution for iOS and Android applications.",,
+Test Driven Development (TDD),Trial,Techniques,TRUE,"A software development process where tests are written before writing the actual code, ensuring that the code meets predefined requirements and functions as expected.",,
