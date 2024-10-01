@@ -88,3 +88,4 @@ Scrum,Adopt,Techniques,FALSE,"An agile framework for managing and completing com
 TTTAttributedString,Hold,Tools,FALSE,"A library for iOS that simplifies working with NSAttributedString by providing utilities for styling and manipulating text, including features like clickable links, text highlighting, and more advanced text formatting options. Not maintained since 2016 and can be replaced by Nantes.",,
 iCarousel,Hold,Tools,FALSE,"An open-source library for iOS that provides a customizable, high-performance carousel-style interface. Not maintained since 2016.",,
 Floaty,Hold,Tools,FALSE,"A simple and customizable floating action button (FAB) library for iOS. Not maintained since 2019 and error prone.",,
+Jetpack DataStore,Trial,languages-and-frameworks,TRUE,"A modern, asynchronous Android data storage solution that replaces SharedPreferences for storing key-value pairs or typed objects with improved reliability.",,
