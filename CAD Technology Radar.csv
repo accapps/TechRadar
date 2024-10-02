@@ -89,3 +89,4 @@ TTTAttributedString,Hold,Tools,FALSE,"A library for iOS that simplifies working 
 iCarousel,Hold,Tools,FALSE,"An open-source library for iOS that provides a customizable, high-performance carousel-style interface. Not maintained since 2016.",,
 Floaty,Hold,Tools,FALSE,"A simple and customizable floating action button (FAB) library for iOS. Not maintained since 2019 and error prone.",,
 Jetpack DataStore,Trial,languages-and-frameworks,TRUE,"A modern, asynchronous Android data storage solution that replaces SharedPreferences for storing key-value pairs or typed objects with improved reliability.",,
+Screenshot Testing,Trial,Techniques,TRUE,"A testing method where screenshots of an app's UI are captured and compared against baseline images to detect visual changes or regressions in the user interface across different devices or states.",,
