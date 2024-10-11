@@ -48,7 +48,7 @@ ChatGPT,Trial,Tools,FALSE,"An AI language model developed by OpenAI that can und
 Appdynamics,Hold,Tools,FALSE,"A performance monitoring tool that provides real-time insights into application performance and user experience.",,
 Promon AppShielder,Trial,Tools,FALSE,"A mobile app security solution that protects apps from threats like reverse engineering and tampering.",,
 Swift Charts,Trial,Tools,FALSE,"A framework for creating customizable charts in iOS and macOS apps using Swift.",,
-AIDA,Hold,Tools,FALSE,"Access Integration & Delivery Automation pipelines hosted at 1&1 to automate software delivery. Hold because of many drawbacks for app development.",,
+AIDA,Trial,Tools,FALSE,"Access Integration & Delivery Automation pipelines hosted at 1&1 to automate software delivery. Trial because of some drawbacks for app development.",,
 Lottie,Trial,Tools,FALSE,"A library for rendering Adobe After Effects animations in real-time on various platforms.",,
 Renovate,Trial,Tools,FALSE,"An open-source tool for automating dependency updates in projects.",,
 GenAI powered UI,Assess,Tools,TRUE,"User interfaces enhanced by generative AI for personalized and dynamic user experiences.",,
