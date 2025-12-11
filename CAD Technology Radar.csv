@@ -32,7 +32,7 @@ Modular Architecture - Android,Trial,Platforms,TRUE,"A software design that brea
 Modular Architecture - iOS,Trial,Platforms,TRUE,"A software design that breaks down applications into smaller, interchangeable modules.",,
 Feature Toggle,Trial,Techniques,FALSE,"A technique to enable or disable features in software without deploying new code.",,
 Opinionated and automated code formatting,Adopt,Techniques,FALSE,"Tools or rules that enforce consistent coding styles automatically. SwiftLint and Android Lint are used.",,
-UI Component Preview - Android,Assess,Techniques,TRUE,"A visual preview of reusable UI components in the IDE.",,
+UI Component Preview - Android,Adopt,Techniques,TRUE,"A visual preview of reusable UI components in the IDE.",,
 UI Component Preview - iOS,Assess,Techniques,TRUE,"A visual preview of reusable UI components in the IDE.",,
 Structured Logging,Trial,Techniques,FALSE,"A logging practice that uses a consistent format to make logs easier to search and analyze.",,
 Crowdtesting,Adopt,Techniques,FALSE,"A testing approach that leverages a large group of real users to test software in diverse environments.",,
